@@ -1,3 +1,3 @@
-### Grocery Party
+### Grocery Party Website
 
-An organization to advocate for a grocery store in [Lawerencvile](https://en.wikipedia.org/wiki/Lawrenceville_(Pittsburgh)).
+This repository is the code for the [Grocery Party website](http://groceryparty.org/).
