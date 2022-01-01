@@ -1,3 +1,3 @@
 ### Grocery Party
 
-An organization to advocate for a grocery store in [Lawerencvile](https://en.wikipedia.org/wiki/Lawrenceville_(Pittsburgh)).
+An organization to advocate for more grocery stores in the [Lawerencvile](https://en.wikipedia.org/wiki/Lawrenceville_(Pittsburgh)) neighborhood of Pittsburgh. Please consider [joining us on Discord](https://discord.gg/467VQ8e3CZ).
